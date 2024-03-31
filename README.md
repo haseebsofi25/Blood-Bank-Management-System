@@ -14,7 +14,7 @@ The Blood Bank Management System is a web-based application developed using Pyth
 
 ## Installation
 1. Clone the repository:
-git clone https://github.com/your_username/blood-bank-management-system.git
+git clone https://github.com/haseebsofi25/Blood-Bank-Management-System.git
 
 2. Navigate into the project directory:
 cd blood-bank-management-system
